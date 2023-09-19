@@ -53,7 +53,6 @@ python3 Demo.py
 
 ## Demo
 [![ Data Processing and Database Insertion Application](https://img.youtube.com/vi/pdDQjnz_rcU/0.jpg)](https://www.youtube.com/watch?v=pdDQjnz_rcU)
-
  
 ## Project Status
 The project is complete.
